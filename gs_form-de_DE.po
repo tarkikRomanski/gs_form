@@ -1,0 +1,461 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-06-08 00:12+0300\n"
+"PO-Revision-Date: 2017-06-08 00:15+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: templates\n"
+"X-Poedit-SearchPath-1: gs_form.php\n"
+"X-Poedit-SearchPath-2: gs_form_admin_menu_functions.php\n"
+"X-Poedit-SearchPath-3: gs_form_option_deinit.php\n"
+"X-Poedit-SearchPath-4: gs_form_option_init.php\n"
+"X-Poedit-SearchPath-5: gs_form_submenu_init.php\n"
+
+#: gs_form.php:410 gs_form.php:453 gs_form.php:496
+msgid "January"
+msgstr "Januar"
+
+#: gs_form.php:411 gs_form.php:454 gs_form.php:497
+msgid "February"
+msgstr "Februar"
+
+#: gs_form.php:412 gs_form.php:455 gs_form.php:498
+msgid "March"
+msgstr "März"
+
+#: gs_form.php:413 gs_form.php:456 gs_form.php:499
+msgid "April"
+msgstr "April"
+
+#: gs_form.php:414 gs_form.php:457 gs_form.php:500
+msgid "May"
+msgstr "Mai"
+
+#: gs_form.php:415 gs_form.php:458 gs_form.php:501
+msgid "June"
+msgstr "Juni"
+
+#: gs_form.php:416 gs_form.php:459 gs_form.php:502
+msgid "July"
+msgstr "Juli"
+
+#: gs_form.php:417 gs_form.php:460 gs_form.php:503
+msgid "August"
+msgstr "August"
+
+#: gs_form.php:418 gs_form.php:461 gs_form.php:504
+msgid "September"
+msgstr "September"
+
+#: gs_form.php:419 gs_form.php:462 gs_form.php:505
+msgid "October"
+msgstr "Oktober"
+
+#: gs_form.php:420 gs_form.php:463 gs_form.php:506
+msgid "November"
+msgstr "November"
+
+#: gs_form.php:421 gs_form.php:464 gs_form.php:507
+msgid "December"
+msgstr "Dezember"
+
+#: gs_form_admin_menu_functions.php:35
+msgid "Your phone number changed!"
+msgstr "Ihre Telefonnummer geändert!"
+
+#: gs_form_admin_menu_functions.php:40
+msgid "Simulation time changed!"
+msgstr "Simulationszeit geändert!"
+
+#: gs_form_admin_menu_functions.php:45
+msgid "Randomize procent changed!"
+msgstr "Randomisieren procent geändert!"
+
+#: gs_form_admin_menu_functions.php:50
+msgid "Admin email changed!"
+msgstr "Admin e-mail geändert!"
+
+#: gs_form_admin_menu_functions.php:104
+msgid "Data changed!"
+msgstr "Admin e-mail geändert!"
+
+#: gs_form_admin_menu_functions.php:180
+msgid "Form deleted"
+msgstr "Formular wurde gelöscht"
+
+#: gs_form_admin_menu_functions.php:227 gs_form_admin_menu_functions.php:288
+msgid "Form"
+msgstr "Formular"
+
+#: gs_form_admin_menu_functions.php:229
+msgid "adding"
+msgstr "hinzufügen"
+
+#: gs_form_admin_menu_functions.php:232
+msgid "Go to form"
+msgstr "Zum Formular"
+
+#: gs_form_admin_menu_functions.php:236
+msgid "The form has not been created"
+msgstr "Das Formular wurde erstellt."
+
+#: gs_form_admin_menu_functions.php:290
+msgid "editing"
+msgstr "bearbeitung"
+
+#: gs_form_submenu_init.php:5 gs_form_submenu_init.php:6
+#: templates/admin_forms_new.php:4 templates/admin_forms_new.php:72
+msgid "Add new form"
+msgstr "Neues Formular hinzufügen"
+
+#: gs_form_submenu_init.php:13 gs_form_submenu_init.php:14
+msgid "Static menu settings"
+msgstr "Statisches Menüeinstellungen"
+
+#: gs_form_submenu_init.php:21 gs_form_submenu_init.php:22
+#: templates/admin_forms_list.php:1
+msgid "Forms list"
+msgstr "Formularliste"
+
+#: gs_form_submenu_init.php:29 gs_form_submenu_init.php:30
+#: templates/admin_user_list.php:1
+msgid "Questionnaires list"
+msgstr "Fragebögenliste"
+
+#: gs_form_submenu_init.php:37 gs_form_submenu_init.php:38
+msgid "Email text"
+msgstr "Text der E-Mail"
+
+#: gs_form_submenu_init.php:45 gs_form_submenu_init.php:46
+msgid "How use it"
+msgstr "Wie verwenden"
+
+#: templates/admin_anceta_list.php:1
+msgid "Questionnaire"
+msgstr "Fragebogen"
+
+#: templates/admin_anceta_list.php:5 templates/admin_forms_edit.php:57
+#: templates/admin_forms_script_section_shortcode.php:254
+#: templates/admin_forms_shortcode_insert.php:18
+msgid "Question"
+msgstr "Frage"
+
+#: templates/admin_anceta_list.php:6
+msgid "Answer"
+msgstr "Spamschutz"
+
+#: templates/admin_email_edit.php:2
+msgid "Change your email text:"
+msgstr "E-Mail-Adresse ändern"
+
+#: templates/admin_email_edit.php:5
+msgid "Your email text:"
+msgstr "Editieren Sie Ihren E-Mail Text:"
+
+#: templates/admin_email_edit.php:14
+msgid "Change Email text"
+msgstr "E-Mail ändern"
+
+#: templates/admin_forms_1_edit.php:1 templates/admin_forms_2_edit.php:1
+msgid "Edit static form 1"
+msgstr "Bearbeiten Sie statisches Formular 1"
+
+#: templates/admin_forms_1_edit.php:14 templates/admin_forms_2_edit.php:32
+msgid "1st screen"
+msgstr "1. Bildschirm"
+
+#: templates/admin_forms_1_edit.php:26 templates/admin_forms_2_edit.php:44
+msgid "Title 1st screen"
+msgstr "Button Bezeichnung"
+
+#: templates/admin_forms_1_edit.php:38 templates/admin_forms_2_edit.php:56
+msgid "Subtitle 1st screen"
+msgstr "Unterzeile"
+
+#: templates/admin_forms_1_edit.php:50 templates/admin_forms_2_edit.php:68
+msgid "Button title for  1st screen"
+msgstr "Button Bezeichnung"
+
+#: templates/admin_forms_1_edit.php:62 templates/admin_forms_1_edit.php:128
+#: templates/admin_forms_1_edit.php:205 templates/admin_forms_1_edit.php:258
+#: templates/admin_forms_1_edit.php:371 templates/admin_forms_2_edit.php:19
+#: templates/admin_forms_2_edit.php:80 templates/admin_forms_2_edit.php:136
+#: templates/admin_main_page.php:49
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: templates/admin_forms_1_edit.php:80 templates/admin_forms_2_edit.php:98
+msgid "2nd screen"
+msgstr "2. Bildschirm"
+
+#: templates/admin_forms_1_edit.php:92 templates/admin_forms_2_edit.php:110
+msgid "Title 2nd screen"
+msgstr "2. Bildschirm-Titel"
+
+#: templates/admin_forms_1_edit.php:104
+msgid "Subtitle 2nd screen"
+msgstr "2. Bildschirm Untertitel"
+
+#: templates/admin_forms_1_edit.php:116
+msgid "Enter text after number for 2nd screen"
+msgstr "Geben Sie Text nach Anzahl für 2. Bildschirm"
+
+#: templates/admin_forms_1_edit.php:146
+msgid "3rd screen"
+msgstr "3. Bildschirm"
+
+#: templates/admin_forms_1_edit.php:157
+msgid "Title 3rd screen"
+msgstr "3. Bildschirm Titel"
+
+#: templates/admin_forms_1_edit.php:169
+msgid "Text before number for 3rd screen"
+msgstr "Text vor Nummer für 3. Bildschirm"
+
+#: templates/admin_forms_1_edit.php:181
+msgid "Text after number for 3rd screen"
+msgstr "Text nach Nummer für 3. Bildschirm"
+
+#: templates/admin_forms_1_edit.php:193
+msgid "Button title for 3rd screen"
+msgstr "Button Bezeichnung"
+
+#: templates/admin_forms_1_edit.php:223
+msgid "4 screen"
+msgstr "4 screen"
+
+#: templates/admin_forms_1_edit.php:234
+msgid "Title 4 screen"
+msgstr "Titel 4-Bildschirm"
+
+#: templates/admin_forms_1_edit.php:246
+msgid "Button title for 4 screen"
+msgstr "Schaltfläche \"Titel für 4-Bildschirm"
+
+#: templates/admin_forms_1_edit.php:276
+msgid "Last screen"
+msgstr "Letzte Bild"
+
+#: templates/admin_forms_1_edit.php:287
+msgid "Title last screen"
+msgstr "Letzten Titelbildschirm"
+
+#: templates/admin_forms_1_edit.php:299
+msgid "Subtitle last screen"
+msgstr "Unterzeile"
+
+#: templates/admin_forms_1_edit.php:311
+msgid "1 step for last screen"
+msgstr "1 Schritt für letzten Bildschirm"
+
+#: templates/admin_forms_1_edit.php:323
+msgid "2 step for last screen"
+msgstr "2 Schritt für letzten Bildschirm"
+
+#: templates/admin_forms_1_edit.php:335
+msgid "3 step for last screen"
+msgstr "3 Schritt für letzten Bildschirm"
+
+#: templates/admin_forms_1_edit.php:347
+msgid "Text before number for last screen"
+msgstr "Text vor der Nummer für die letzten Bildschirm"
+
+#: templates/admin_forms_1_edit.php:359
+msgid "Text after number for last screen"
+msgstr "Text nach Nummer für letzten Bildschirm"
+
+#: templates/admin_forms_2_edit.php:9
+msgid "Steps ( separated by commas )"
+msgstr "Schritte (durch Kommas getrennt)"
+
+#: templates/admin_forms_2_edit.php:124
+msgid "Button title for  2nd screen"
+msgstr "Schaltfläche \"Titel für 2. Bildschirm"
+
+#: templates/admin_forms_edit.php:3
+msgid "Edit form"
+msgstr "Formular bearbeiten"
+
+#: templates/admin_forms_edit.php:8 templates/admin_forms_list.php:6
+#: templates/admin_forms_new.php:11
+msgid "Title"
+msgstr "Titel"
+
+#: templates/admin_forms_edit.php:13 templates/admin_forms_list.php:7
+#: templates/admin_forms_new.php:20
+msgid "Subtitle"
+msgstr "Untertitel"
+
+#: templates/admin_forms_edit.php:25 templates/admin_forms_new.php:30
+msgid "Display navigation menu in form sections"
+msgstr "Navigations-Menü in Form Abschnitte anzeigen"
+
+#: templates/admin_forms_edit.php:37 templates/admin_forms_edit.php:151
+#: templates/admin_forms_new.php:48 templates/admin_forms_new.php:67
+#: templates/admin_forms_shortcode_insert.php:79
+msgid "Add question"
+msgstr "Frage hinzufügen"
+
+#: templates/admin_forms_edit.php:49 templates/admin_forms_new.php:53
+msgid "Content"
+msgstr "Inhalt"
+
+#: templates/admin_forms_edit.php:62
+#: templates/admin_forms_script_section_shortcode.php:259
+#: templates/admin_forms_shortcode_insert.php:27
+msgid "Question subtitle"
+msgstr "Unterzeile"
+
+#: templates/admin_forms_edit.php:66
+#: templates/admin_forms_script_section_shortcode.php:263
+#: templates/admin_forms_shortcode_insert.php:33
+msgid "Question type"
+msgstr "Fragetyp"
+
+#: templates/admin_forms_edit.php:70
+#: templates/admin_forms_script_section_shortcode.php:267
+#: templates/admin_forms_shortcode_insert.php:35
+msgid "Anceta"
+msgstr "Anceta"
+
+#: templates/admin_forms_edit.php:73
+#: templates/admin_forms_script_section_shortcode.php:270
+#: templates/admin_forms_shortcode_insert.php:36
+msgid "Text field"
+msgstr "Textfeld"
+
+#: templates/admin_forms_edit.php:76
+#: templates/admin_forms_script_section_shortcode.php:273
+#: templates/admin_forms_shortcode_insert.php:37
+msgid "Select"
+msgstr "Auswählen"
+
+#: templates/admin_forms_edit.php:79
+#: templates/admin_forms_script_section_shortcode.php:276
+#: templates/admin_forms_shortcode_insert.php:38
+msgid "Month & Day"
+msgstr "Jahr Monat Tag"
+
+#: templates/admin_forms_edit.php:82
+#: templates/admin_forms_script_section_shortcode.php:279
+#: templates/admin_forms_shortcode_insert.php:40
+msgid "Month & Year"
+msgstr "Vierteljahr/Jahr:"
+
+#: templates/admin_forms_edit.php:85
+#: templates/admin_forms_script_section_shortcode.php:282
+#: templates/admin_forms_shortcode_insert.php:39
+msgid "Month, Day & Year"
+msgstr "Monat . Tag . Jahr"
+
+#: templates/admin_forms_edit.php:88
+#: templates/admin_forms_script_section_shortcode.php:285
+#: templates/admin_forms_shortcode_insert.php:41
+msgid "Postsection field"
+msgstr "Postsection Feld"
+
+#: templates/admin_forms_edit.php:97
+#: templates/admin_forms_script_section_shortcode.php:291
+#: templates/admin_forms_shortcode_insert.php:48
+msgid "Enter answers"
+msgstr "Geben Sie Antworten"
+
+#: templates/admin_forms_edit.php:117
+#: templates/admin_forms_script_section_shortcode.php:294
+#: templates/admin_forms_shortcode_insert.php:52
+msgid "Add new answer"
+msgstr "Kommentar hinzufügen"
+
+#: templates/admin_forms_edit.php:123
+#: templates/admin_forms_script_section_shortcode.php:299
+#: templates/admin_forms_shortcode_insert.php:59
+msgid "Enter placeholder"
+msgstr "Geben Sie Platzhalter"
+
+#: templates/admin_forms_edit.php:133
+#: templates/admin_forms_script_section_shortcode.php:305
+#: templates/admin_forms_shortcode_insert.php:69
+msgid "Button title"
+msgstr "Button Bezeichnung"
+
+#: templates/admin_forms_edit.php:136
+#: templates/admin_forms_script_section_shortcode.php:308
+msgid "Delete"
+msgstr "Gelöscht"
+
+#: templates/admin_forms_edit.php:156
+msgid "Edit this form"
+msgstr "Formular bearbeiten"
+
+#: templates/admin_forms_list.php:8
+msgid "Shortcode"
+msgstr "Kurzcode"
+
+#: templates/admin_forms_shortcode_insert.php:7
+msgid "Insert new section"
+msgstr "Neuen Abschnitt einfügen"
+
+#: templates/admin_main_page.php:2
+msgid "Settings"
+msgstr "Plugin-Einstellungen"
+
+#: templates/admin_main_page.php:6
+msgid "Your phone number"
+msgstr "Deine Telefonnummer"
+
+#: templates/admin_main_page.php:14
+msgid "Your Email"
+msgstr "Ihre E-Mail"
+
+#: templates/admin_main_page.php:22
+msgid "Customize color"
+msgstr "Benutzerdefinierte Farbe"
+
+#: templates/admin_main_page.php:24
+msgid "Main color"
+msgstr "Hauptfarbe"
+
+#: templates/admin_main_page.php:28
+msgid "Accent color"
+msgstr "Akzentfarbe"
+
+#: templates/admin_main_page.php:32
+msgid "Randomizer setting"
+msgstr "Zufallsgenerator einstellen"
+
+#: templates/admin_main_page.php:34
+msgid "Randomizer work time(ms)"
+msgstr "Randomizer Arbeit time(ms)"
+
+#: templates/admin_main_page.php:42
+msgid "Randomizer selecting procent(%)"
+msgstr "Zufallsgenerator auswählen procent(%)"
+
+#: templates/admin_user_list.php:6
+msgid "Name"
+msgstr "Name"
+
+#: templates/admin_user_list.php:7
+msgid "Lastname"
+msgstr "Nachname"
+
+#: templates/admin_user_list.php:8
+msgid "Email"
+msgstr "Email"
+
+#: templates/admin_user_list.php:9
+msgid "Phone"
+msgstr "Telefon"
+
+#: templates/admin_user_list.php:10
+msgid "Index"
+msgstr "Index"

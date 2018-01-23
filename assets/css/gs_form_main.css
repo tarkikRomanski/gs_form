@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+
+.gs_form_section {
+    display: none;
+}
+
+.gs_form select {
+-moz-appearance: none;
+}
+
+.gs_form input {
+    transition: all 1s;
+}
+
+
+
+input[type='number'] {
+    -moz-appearance:textfield;
+}
+
+.gs_form_show {
+    display: block;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+     display: none;
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+.gs_form_type_3.gs_form, .gs_form_type_1.gs_form {
+    max-width: 100%;
+    margin: 10px 0;
+    font-family: "Lato"
+}
+
+.gs_form_type_3.gs_form header, .gs_form_type_1.gs_form header, .gs_form_type_2.gs_form header {
+    padding: 15px;
+}
+
+.gs_form_type_3.gs_form header, .gs_form_type_1.gs_form header {
+    position: relative;
+    padding: 10px 200px 10px 20px;
+
+}
+
+.gs_form_type_1 .gs_form_headline,
+.gs_form_type_2 .gs_form_headline,
+.gs_form_type_3 .gs_form_headline {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.6;
+    margin: 0; }
+.gs_form_type_1 .gs_form_subline,
+.gs_form_type_2 .gs_form_subline,
+.gs_form_type_3 .gs_form_subline {
+    color: #fff;
+    font-size: 15px !important;
+    line-height: 1.71429;
+    margin: 0; }
+
+.gs_form_type_3.gs_form p, .gs_form_type_1.gs_form p {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+.gs_form .gs_error {
+    border-color: #000;
+    background-color: red !important;
+}
+
+textarea {
+    max-width: 100%;
+    max-height: 250px;
+    min-height: 250px;
+    resize: none;
+}
+
+@media (max-width: 480px) {
+    .gs_form_type_3.gs_form, .gs_form_type_1.gs_form {
+        border-right: none;
+        border-left: none;
+    }
+}

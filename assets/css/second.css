@@ -1,0 +1,198 @@
+.gs_form_type_2.gs_form {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #fff;
+    padding-bottom: 15px;
+}
+
+.gs_form_type_2.gs_form textarea {
+    width: 95%;
+    height: 200px;
+    background-color: #f8f8f8;
+    border: 1px solid #f0f0f0;
+    padding: 15px;
+}
+
+.gs_form_type_2 .gs_form_control {
+    position: relative;
+    width: 40%;
+    margin: 35px 2.5% 10px 2.5%;
+    display: inline-block;
+    border: 1px solid gray
+}
+
+.gs_form_type_2 .gs_form_control label {
+    background-color: gray;
+    color: #fff;
+    position: absolute;
+    top: -30px;
+    left: -1px;
+    padding: 5px;
+    font-size: 12px;
+    border-radius: 2px 2px 0 0
+}
+
+.gs_form_type_2 .gs_form_control input {
+    background-color: transparent;
+    border: none;
+    width: 100%;
+    height: 52px;
+    font-size: 18px
+}
+
+.gs_form_type_2 .gs_form_button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    min-width: 310px;
+    border: 2px solid;
+    border-radius: 3px !important;
+    font-size: 20px;
+    min-height: 50px;
+    width: auto;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px
+}
+
+.gs_form_type_2 .gs_form_button:hover {
+    background-color: #fff;
+}
+
+.gs_form_type_2 .gs_form_button:disabled {
+    background-color: buttonface;
+    border: 2px solid;
+    border-radius: 3px !important;
+    border-color: #ccc;
+    font-weight: 700;
+    color: #888;
+    cursor: default
+}
+
+.gs_form_type_2.gs_form .gs_form_label {
+    text-align: left;
+    width: 100%;
+    margin-bottom: 2px;
+    line-height: 1;
+}
+.gs_form_type_2.gs_form .gs_form_label label{
+    background: #ececec;
+    padding: 0 5px;
+    margin-left: 2.5%;
+    border-radius: 5px 5px 0 0;
+}
+
+.gs_form_type_2 .gs_form_steps_progress {
+    width: 450px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.gs_form_type_2 .gs_form_steps_progress_circles_labels_block {
+    width: 540px;
+    height: 20px
+}
+
+.gs_form_type_2 .gs_form_steps_progress__circle {
+    float: left;
+    font-size: 24px;
+    color: rgba(255, 93, 94, 0.57);
+    padding-top: 0;
+    border-radius: 25px;
+    height: 45px;
+    width: 45px;
+    border: 3px solid rgba(255, 93, 94, 0.57);
+    text-align: center;
+    cursor: default
+}
+
+.gs_form_type_2 .gs_form_steps_progress__circle.gs_form_steps_active {
+    color: #fff;
+    background-color: #fa5c5d;
+    border-color: #fa5c5d
+}
+
+.gs_form_type_2 .gs_form_steps_progress__line {
+    float: left;
+    width: 70px;
+    height: 4px;
+    background-color: #fa5c5d;
+    margin-top: 20px
+}
+
+.gs_form_type_2 .gs_form_steps_progress__line.gs_form_steps_active {
+    background-color: #fa5c5d;
+    margin-left: -2px
+}
+
+.gs_form_type_2 .gs_form_steps_progress_circles_labels_block {
+    margin-left: -15px;
+    margin-top: 10px
+}
+
+.gs_form_type_2 .gs_form_steps_progress__label {
+    text-align: left;
+    float: left;
+    width: 180px;
+    color: rgba(255, 93, 94, 0.57);
+    font-size: 16px
+}
+
+.gs_form_type_2 .gs_form_steps_progress__label.gs_form_steps_active {
+    color: #fa5c5d
+}
+
+/*# sourceMappingURL=second.css.map */
+
+@media (max-width: 469px) {
+    .gs_form_type_2 .gs_form_steps_progress__line {
+        width: 10%;
+    }
+
+
+    .gs_form_type_2 .gs_form_steps_progress__label {
+        float: none;
+        display: inline-block;
+        width: 30%;
+        font-size: 12px;
+    }
+
+
+    .gs_form_type_2 .gs_form_steps_progress_circles_labels_block {
+        width: 100%;
+    }
+
+    .gs_form_type_2 .gs_form_steps_progress {
+        width: 85%;
+        margin-left: 15%;
+    }
+
+    .gs_form_type_2 .gs_form_control {
+        width: 100%;
+        max-width: 100%;
+    }
+
+}
+@media (max-width: 420px) {
+
+    .gs_form_type_2 .gs_form_steps_progress {
+        width: 100%;
+    }
+
+    .gs_form_type_2 .gs_form_section.gs_form_show{
+        margin-top: 48px !important;
+    }
+    .gs_form_type_2 .gs_form_steps_progress_circles_block:nth-child(1){
+        margin-left: 10%;
+    }
+    .gs_form_type_2 .gs_form_steps_progress_circles_labels_block{
+        margin-left: 10%;
+    }
+}
+
+

@@ -1,0 +1,129 @@
+.gs_form_type_1 .gs_form_timeBlock {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    background: url(https://fr-websitecontent.s3.amazonaws.com/img/uhr_icon.png) no-repeat 95px 10px;
+    color: rgba(0, 0, 0, 0.7);
+    text-align: right;
+    line-height: 1.2em !important;
+    padding-right: 40px;
+    padding-top: 10px;
+    font-weight: 700; }
+.gs_form_type_1 .gs_form_timeBlock p {
+    margin: 0;
+    font-size: 14px;
+    line-height: 16px; }
+.gs_form_type_1 .gs_form_section {
+    padding: 34px 52px;
+    text-align: center; }
+.gs_form_type_1 .gs_form_section h2 {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-size: 24px;
+    color: #514642;
+    font-weight: 700;
+    margin: 0; }
+.gs_form_type_1 .gs_form_subtitle {
+    color: #514642;
+    font-weight: 700;
+    font-size: 15px;
+    margin-top: 0;
+    margin-bottom: 30px; }
+.gs_form_type_1 .gs_form_button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    min-width: 310px;
+    border: 2px solid;
+    border-radius: 3px !important;
+    font-size: 20px;
+    min-height: 50px;
+    width: auto;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #ffffff;
+    cursor: pointer;
+    padding: 10px; }
+.gs_form_type_1 .gs_form_button:hover {
+    background-color: #fff;
+     }
+.gs_form_type_1 .gs_form_button:disabled {
+    background-color: buttonface;
+    border: 2px solid;
+    border-radius: 3px !important;
+    border-color: #ccc;
+    font-weight: 700;
+    color: #888;
+    cursor: default; }
+.gs_form_type_1 .gs_form_hotline {
+    text-align: left;
+    background: url(https://fr-websitecontent.s3.amazonaws.com/img/phone_orange.png) no-repeat 0px 10px;
+    background-size: 20px;
+    padding-left: 30px;
+    /* height: 32px; */
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 4px; }
+.gs_form_type_1 .gs_form_hotline a {
+    text-decoration: none; }
+.gs_form_type_1 .gs_form_hotline span {
+    font-size: 12px;
+    line-height: 1.2em !important;
+    display: inline-block;
+    color: #514642;
+    padding-left: 6px; }
+.gs_form_type_1 .gs_form_recall {
+    text-align: left;
+    font-weight: 700;
+    margin-top: 20px; }
+.gs_form_type_1.gs_form input {
+    background-color: white !important;
+    width: 100% !important;
+    height: 52px !important;
+    font-size: 18px;
+    max-width: 45%;
+    border-radius: 4px !important;
+    padding-left: 10px;
+    font-size: 18px;
+    margin-bottom: 10px;
+    margin-top: 10px; }
+
+.gs_form_type_1 #gs_form_lawyercount, .gs_form_type_1 #gs_form_lawyercounter {
+    font-weight: 700;
+     }
+
+
+@media (max-width: 480px) {
+    .gs_form_type_1.gs_form header {
+        padding: 70px 20px 10px 20px;
+        text-align: center;
+    }
+    .gs_form_type_1 .gs_form_timeBlock {
+        left: 50%;
+        margin-left: -60px;
+        right: inherit;
+    }
+    .gs_form_type_1 .gs_form_button{
+        margin-top: 19px;
+    }
+    .gs_form_type_1 .gs_form_answear_grid [type="radio"] + label {
+        max-width: 100%;
+        width: 100%;
+        margin-right: 0;
+        margin-left: 0;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+    .gs_form_type_1 input{
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+}
+
+@media (max-width: 760px){
+    .gs_form_type_1 .gs_form_section {
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+}

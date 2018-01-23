@@ -1,0 +1,277 @@
+.gs_form_type_3 .gs_form_timeBlock {
+    position: absolute;
+    top: 11px;
+    right: 20px;
+    background: url(https://fr-websitecontent.s3.amazonaws.com/img/uhr_icon.png) no-repeat 105px 10px;
+    color: rgba(0, 0, 0, 0.7);
+    text-align: right;
+    line-height: 1.2em !important;
+    padding-right: 45px;
+    padding-top: 10px;
+    font-weight: 700
+}
+
+.gs_form_type_3 .gs_form_timeBlock p {
+    margin: 0;
+    font-size: 14px;
+    line-height: 16px
+}
+
+.gs_form_type_3 .gs_form_section_navigation {
+    text-align: center;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 20px;
+}
+
+.gs_form_type_3 .gs_form_section_navigation_item {
+    display: inline-block;
+    margin: 5px !important;
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.gs_form_type_3 .gs_form_section {
+    padding: 14px 52px 34px 52px;
+    text-align: center
+}
+
+.gs_form_type_3 .gs_form_section h2 {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-size: 24px;
+    color: #514642;
+    font-weight: 700;
+    margin: 0
+}
+
+.gs_form_type_3 .gs_form_subtitle {
+    color: #514642;
+    font-weight: 700;
+    font-size: 15px;
+    margin-top: 0;
+    margin-bottom: 30px !important;
+}
+
+.gs_form_type_3 .gs_form_button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    max-width: 310px;
+    border: 2px solid;
+    border-radius: 3px !important;
+    font-size: 20px;
+    min-height: 50px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px;
+    width: 100%;
+}
+
+.gs_form_type_3 .gs_form_button:hover {
+    background-color: #fff;
+}
+
+.gs_form_type_3 .gs_form_button:disabled {
+    background-color: buttonface;
+    border: 2px solid;
+    border-radius: 3px !important;
+    border-color: #ccc;
+    font-weight: 700;
+    color: #888;
+    cursor: default
+}
+
+.gs_form_type_3 .gs_form_hotline {
+    text-align: left;
+    background: url(https://fr-websitecontent.s3.amazonaws.com/img/phone_orange.png) no-repeat 0px 10px;
+    background-size: 20px;
+    padding-left: 30px;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 4px
+}
+
+.gs_form_type_3 .gs_form_hotline a {
+    text-decoration: none
+}
+
+.gs_form_type_3 .gs_form_hotline span {
+    font-size: 12px;
+    line-height: 1.2em !important;
+    display: inline-block;
+    color: #514642;
+    padding-left: 6px
+}
+
+.gs_form_type_3 .gs_form_recall {
+    text-align: left;
+    font-weight: 700;
+    margin-top: 20px
+}
+
+.gs_form_type_3 input {
+    background-color: #fff !important;
+    width: 100% !important;
+    height: 52px !important;
+    font-size: 18px;
+    max-width: 45%;
+    border: 0 !important;
+    border-radius: 4px !important;
+    padding: 6px 10px 6px 10px;
+    font-size: 18px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.gs_form_type_3 .gs_form_answear_grid {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gs_form_type_3 .gs_form_answear_grid [type="radio"] {
+    display: none
+}
+
+.gs_form_type_3 .gs_form_answear_grid [type="radio"] + label {
+    width: 40%;
+    max-width: 40%;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background-color: #fff;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px 0px;
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px
+}
+
+.gs_form_type_3 .gs_form_answear_grid [type="radio"] + label > span {
+    position: relative;
+    top: 50%;
+    display: block;
+    transform: translate(0, -50%);
+}
+
+.gs_form_type_3 .gs_form_answear_grid [type="radio"]:checked + label > span {
+    color: #fff !important;
+}
+
+.gs_form_type_3.gs_form select {
+    margin-bottom: 10px;
+    background-color: #fff;
+    border-radius: 4px !important;
+    font-size: 18px;
+    text-indent: 0.01px;
+    text-overflow: "";
+    background: url(https://fr-websitecontent.s3.amazonaws.com/img/select_arrow.png);
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-position: right 10px top 25px;
+    background-size: 19px 10px;
+    height: 62px !important;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 100%;
+    max-width: 45%;
+    -webkit-appearance: none;
+    appearance: none
+}
+
+.gs_form_type_3.gs_form select::-ms-expand {
+    display: none
+}
+
+.gs_form_type_3 #gs_form_lawyercount, .gs_form_type_3 #gs_form_lawyercounter {
+    font-weight: 700;
+}
+.gs_form_type_3.gs_form h2{
+    line-height: 24px;
+    margin-bottom: 0;
+    margin-top: 3px;
+}
+
+.gs_form_type_3.gs_form .dateSection select {
+    max-width: 30%;
+}
+
+.gs_form_type_3 .dateSection select+select {
+    margin-left: 10px;
+}
+
+.gs_form_type_3 .gs_form_anceta_input.gs_form_p_text+div {
+    font-size: 30px;
+    display: inline-block;
+    width: 60px;
+    height: 52px;
+    vertical-align: top;
+    margin: 10px -8px;
+    max-height: 52px;
+    color: #fafafa;
+    border-radius: 0 4px 4px 0;
+}
+
+@media (max-width: 480px) {
+    .gs_form_type_3.gs_form header {
+        padding: 70px 20px 10px 20px;
+        text-align: center;
+    }
+    .gs_form_type_3 .gs_form_timeBlock {
+        left: 50%;
+        margin-left: -60px;
+        right: inherit;
+    }
+    .gs_form_type_3 .gs_form_button{
+        margin-top: 19px;
+    }
+    .gs_form_type_3 .gs_form_answear_grid [type="radio"] + label {
+        position: relative;
+        max-width: calc( 100% - 20px );
+        width: calc( 100% - 20px );
+        margin-right: 0;
+        margin-left: 0;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+
+
+
+    .gs_form_type_3 input, .gs_form_type_3 select{
+        max-width: calc( 100% - 10px ) !important;
+        width: calc( 100% - 10px )!important;
+        padding-right: 0;
+    }
+
+    .gs_form_type_3 .gs_form_anceta_input.gs_form_p_text+div {
+        position: absolute;
+        top: 0;
+        right: 5px;
+    }
+
+    .gs_form_type_3 .dateSection select+select {
+        margin-left: 0px;
+    }
+}
+@media (max-width: 365px){
+    .gs_form_type_3.gs_form .gs_form_subline {
+        margin: 10px 0;
+        line-height: 17px;
+    }
+}
+@media (max-width: 760px){
+    .gs_form_type_3 .gs_form_section {
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+}
+/*# sourceMappingURL=thrid.css.map */
